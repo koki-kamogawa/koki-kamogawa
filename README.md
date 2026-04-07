@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:koki@oovo.jp">
+  <a href="mailto:k.kamogawa@oovo.jp">
     <img src="https://img.shields.io/badge/Email-koki%40oovo.jp-black?style=flat-square&logo=gmail" />
   </a>
   <a href="https://github.com/koki-kamogawa">
@@ -102,7 +102,7 @@ If you're looking to introduce AI into your business or build something ambitiou
 ---
 
 <p align="center">
-  <a href="mailto:koki@oovo.jp">
+  <a href="mailto:k.kamogawa@oovo.jp">
     <img src="https://img.shields.io/badge/Contact%20Me-koki%40oovo.jp-black?style=for-the-badge" />
   </a>
 </p>
