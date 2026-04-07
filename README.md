@@ -55,12 +55,23 @@
 
 ## Featured Projects
 
+### ⭐ AI Agent Team Template — 10-Agent AI Team Architecture
+> Build your own AI-powered team with 10 specialized agents. Open-source template for Claude Code.
+
+- 10 agents: secretary, strategist, marketer, auditor, sales, automation, engineer, researcher, writer, leader
+- Quality control hooks, memory system, handoff conventions
+- Actually used in production to run a real business
+- **[→ View Repository](https://github.com/koki-kamogawa/ai-agent-team-template)**
+
+---
+
 ### Lumo — Voice Diary + AI Analysis
 > Record your thoughts by voice, and AI reveals patterns in your emotions and life.
 
 - Voice input with real-time transcription
 - AI-powered mood tracking and weekly insights
 - Built with Next.js, Whisper API, Claude API
+- **[→ View Repository](https://github.com/koki-kamogawa/Lumo)**
 
 ---
 
@@ -70,15 +81,17 @@
 - Speech-to-text with automatic summarization
 - Tag and search your knowledge base
 - Built with Next.js, TypeScript, Tailwind CSS
+- **[→ View Repository](https://github.com/Oovo-project/nebula-notes)**
 
 ---
 
 ### zuretta — Party Game Web App
-> A web-based party game platform for groups — no app install needed.
+> Pass your phone. Answer in secret. Guess who said what.
 
-- Real-time multiplayer with WebSocket
-- Mobile-friendly design, works on any device
-- Built with Next.js, Prisma, PostgreSQL
+- No backend needed — runs entirely in the browser
+- 200+ built-in questions, mobile-first design
+- Built with Next.js, TypeScript, Tailwind CSS
+- **[→ View Repository](https://github.com/Oovo-project/zuretta)**
 
 ---
 
