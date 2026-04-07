@@ -98,8 +98,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koki-kamogawa&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koki-kamogawa&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=koki-kamogawa&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koki-kamogawa&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
 </p>
 
 ---
